@@ -1,0 +1,5 @@
+{
+  "app": "ts-node src/app.ts",
+  "context": {
+  }
+}

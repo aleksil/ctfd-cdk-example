@@ -1,0 +1,6 @@
+# Consider removing this ignore later.
+/assets/**/*.js
+
+/cdk.out
+/__snapshots__/
+/src/lambdas/sns-to-slack/snsToSlack.js
